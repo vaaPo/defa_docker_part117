@@ -35,6 +35,5 @@
 
 # To avoid notebooks to be sent
 /notebooks/*
-
 # To avoid editor backup-files
 *~
